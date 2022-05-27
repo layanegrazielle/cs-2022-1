@@ -20,8 +20,10 @@ Utilizar API REST possui vantagens como a separação entre cliente/servidor, co
 
 NOLETO, Cairo.  API REST: o que é e como montar umas API sem complicação?. Trybe 2022. Disponível em: (https://blog.betrybe.com/desenvolvimento-web/api-rest-tudo-sobre/)
 Acessado: 27 de maio de 2022
+
 PIRES, Jackson. O que é API? REST e RESTful? Conheça as definições e diferenças!. Becode, 2017. Disponível em:  (https://becode.com.br/o-que-e-api-rest-e-restful/)
 Acessado: 27 de maio de 2022
+
 API REST. Red Hat, 2020. Disponível em: 
 (https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api)
 Acessado: 27 de maio de 2022

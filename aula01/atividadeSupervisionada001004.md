@@ -4,11 +4,11 @@
 API REST é uma interface de programação de aplicações. API (Application Programming Interface) é um conjunto de padrões, rotinas que permitem que aplicações possam utilizar funcionalidades que ela oferece, sem precisar conhecer todos os detalhes de como foi implementado.  Já a parte REST (Representational State Transfer) é um conjunto de restrições, possui um estilo de arquitetura com implementação de recursos rápido, prático e acessível.
 
 API REST é utilizada na comunicação entre aplicações de forma rápida e segura. Para ser considerada uma API REST é preciso atender algumas especificações:
-    -Arquitetura cliente/servidor, separando as responsabilidades de cada tipo.
-    -Comunicação stateless, ou seja, ocorre de forma isolada, sem armazenamento do cliente, entre cliente e servidor;
-    -Armazenar dados em cache para otimizar as interações entre cliente e servidor;
-    -Interface uniforme para que as informações sejam transferidas em um formato padronizado;
-    -Sistema em camadas que organiza os tipos de forma independente.
+- Arquitetura cliente/servidor, separando as responsabilidades de cada tipo.
+- Comunicação stateless, ou seja, ocorre de forma isolada, sem armazenamento do cliente, entre cliente e servidor;
+- Armazenar dados em cache para otimizar as interações entre cliente e servidor;
+- Interface uniforme para que as informações sejam transferidas em um formato padronizado;
+- Sistema em camadas que organiza os tipos de forma independente.
 	
 Atendendendo esses critérios ela pode ser classificada em 3 tipos: 
 **Privadas ou Locais:** aplicações internas de uma empresa, geralmente usada para ter acesso a dados mais sigilosos;

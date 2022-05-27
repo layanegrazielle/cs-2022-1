@@ -16,7 +16,7 @@
 8. Tem conhecimento sobre bancos de dados não relacionais (_NoSQL_)?
 **Não.**
 9. Tem conhecimento a respeito de controle de versões? Sabe usar corretamente softwares de controle de versão, dentre eles o _github_?
-Conheço pouco.
+**Conheço pouco.**
 10. Tem conta no _github_?
 **Sim.**
 

@@ -23,7 +23,7 @@ Suas regras se baseiam em:
 - É flexível, podendo ser executada em ambientes nativos e em ambientes web;
 - Pode ser compilada em código nativo ou JavaScript, Baseada em classes;
 - Comporta análises estáticas.<p>
-**Python:** Linguagem de alto nível, interpretada que suporta múltiplos paradigmas de programação: imperativo, orientado a objetos e funcional. É uma linguagem com tipagem dinâmica e gerenciamento automático de memória. Ela também  é muito utilizada no desenvolvimento web back-end nos frameworks Django e Flask.  
+**Python:** Linguagem de alto nível, interpretada que suporta múltiplos paradigmas de programação: imperativo, orientado a objetos e funcional. É uma linguagem com tipagem dinâmica e gerenciamento automático de memória. Ela também  é muito utilizada no desenvolvimento web back-end nos frameworks Django e Flask.<p>
 **Lua:** linguagem de programação projetada no Brasil pela PUC-Rio em 1993, também suporta múltiplos paradigmas como: programação procedural, programação orientada a objetos, programação funcional, programação orientada a dados e descrição de dados. É muito utilizada em aplicações industriais e jogos. Atualmente é a linguagem de script mais utilizada em desenvolvimento de jogos.Com isso, ela é a única linguagem de impacto global que não foi projetada em países de primeiro mundo.
 
 ## Referencias:

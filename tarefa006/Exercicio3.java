@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+public class Exercicio3 {
+    public static void main(String[] args) {
+        double saldo;
+        Scanner ler = new Scanner(System.in);
+        saldo = ler.nextDouble();
+       	System.out.println(saldo + (saldo * 0.15));
+
+	}
+}

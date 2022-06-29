@@ -5,7 +5,7 @@
 No artigo é destacado algumas características de um software que indica sua qualidade, como duplicidade de código, métodos e classes com responsabilidades relevantes, complexidade ciclomática elevada, ausência de testes de unidade. Por ser desenvolvido por humanos é normal ter falhas, a autora destaca algumas métricas importantes para se observar no momento da codificação:
 - Número de linhas de código 
 - Complexidade Ciclomática 
-- Falta de coesão em métodos   
+- Falta de coesão em métodos <p>
 Elas são usadas em ferramentas que auxiliam a encontrar possíveis falhas durante o desenvolvimento do código, além disso sugere algumas métricas importantes ao implantar ferramentas desse tipo, como:
 - Customizar as regras habilitadas da ferramenta
 - Análise o nível de modificabilidade 

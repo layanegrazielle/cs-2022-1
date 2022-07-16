@@ -1,11 +1,22 @@
 import java.sql.Date;
-
+/**
+ * @class define pessoa fisica
+ * @author layanegrazielle
+ * @date 15 de julho de 2022
+ */
 public class PessoaFisica{
 
             private String nome;
             private String sexo;
             private Date dataNascimento;
             private Endereco endereco;
+            /**
+             * Cria pessoa
+             * @param nome
+             * @param sexo
+             * @param dataNascimento
+             * @param endereco
+             */
             public PessoaFisica(String nome, String sexo, Date dataNascimento, Endereco endereco) {
                 this.setNome(nome);
                 this.setSexo(sexo);
@@ -39,3 +50,4 @@ public class PessoaFisica{
             
                               
 }
+
